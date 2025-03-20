@@ -1,0 +1,8 @@
+{
+    "smtp_server": "smtp.gmail.com",          
+    "smtp_port": 587,                         
+    "username": " ",       
+    "password": " ",          
+    "sales_channel_email": " ", 
+    "log_file": "email_parser.log"            
+}
